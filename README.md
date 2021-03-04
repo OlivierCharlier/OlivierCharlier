@@ -1,16 +1,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://www.olione.be) 
 
-
-
-# Hello World  👋
-
-## Welcome to my GitHub Profile
+## Welcome to my GitHub Profile 📜
 
 
 I am **Olivier Charlier**, a continious learner.
 
 <ins>Take a look at my history</ins>  
-I started around the year 2000: trying to code with [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word) and [MS Outlook Express](https://en.wikipedia.org/wiki/Outlook_Express "a discontinued email and news client included with Internet Explorer versions 3.0 through to 6.0.")  when I (by chance) discovered the source code of an email. It was a bit of a disaster, you can imagine. So, 10 years later, I created my first website using [Wordpress](https://en.wikipedia.org/wiki/WordPress). And 10 years after, I decided to make Web Development my job! I publish professional websites and I learn several languages during my training at ✨ _BeCode_ ✨ (_Liège - Belgium_) : 7 months of practice.
+_I started around the year 2000: trying to code with [MS Word](https://en.wikipedia.org/wiki/Microsoft_Word) and [MS Outlook Express](https://en.wikipedia.org/wiki/Outlook_Express "a discontinued email and news client included with Internet Explorer versions 3.0 through to 6.0.")  when I (by chance) discovered the source code of an email. It was a bit of a disaster, you can imagine. So, 10 years later, I created my first website using [Wordpress](https://en.wikipedia.org/wiki/WordPress). And 10 years after, I decided to make Web Development my job! I publish professional websites and I learn several languages during my training at_ ✨ **BeCode** (Liège - Belgium) ✨ : _7 months of practice._
 
 ---
 
@@ -31,8 +27,8 @@ I started around the year 2000: trying to code with [MS Word](https://en.wikiped
 
 
 
-   *A day without laughter is a day wasted.*  
-                                **Charlie Chaplin**
+   "*A day without laughter is a day wasted.*"  
+                                ***<ins>Charlie Chaplin</ins>***
 
 ---
 
