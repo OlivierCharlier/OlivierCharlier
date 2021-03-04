@@ -30,15 +30,15 @@ I started around the year 2000: trying to code with [MS Word](https://en.wikiped
 
 ---
 
-![alt text](https://media.badgr.com/uploads/badges/assertion-mGisuGLmS3CZnSjQyPrhwg.png "CSS3") | ![alt text](https://media.badgr.com/uploads/badges/assertion-VTzl8tjaRZSRLdlOeNk33A.png "HTML5") | ![alt text](https://media.badgr.com/uploads/badges/assertion-Pu1ljkrKSg6wZCIde3EOIg.png "SASS") | ![alt text](https://media.badgr.com/uploads/badges/assertion-iCRZWhuZToqyrKwCX6nSjw.png "JavaScript") | ![alt text](https://media.badgr.com/uploads/badges/assertion-b_Db5XjySR2omu3MGmC_PA.png "WordPress") | ![alt text](https://media.badgr.com/uploads/badges/assertion-iMdNVN5AQ1yLDLXYTZdlNQ.png "PHP") | ![alt text](https://media.badgr.com/uploads/badges/assertion-RINpIW0HTm6pHZiU3kIMKA.svg "Data BAse Management") | ![alt text](https://media.badgr.com/uploads/badges/assertion-rpK4giC5Q267FVYq3wZWTA.png "Markdown... like all this Readme page") | ![alt text]( "") | ![alt text]( "")
+![alt text](https://github.com/OlivierCharlier/OlivierCharlier/blob/main/img/icone1.png "CSS3") | ![alt text](https://github.com/OlivierCharlier/OlivierCharlier/blob/main/img/icone3.png "HTML5") | ![alt text](https://github.com/OlivierCharlier/OlivierCharlier/blob/main/img/icone5.png "SASS") | ![alt text](https://github.com/OlivierCharlier/OlivierCharlier/blob/main/img/icone4.png "JavaScript") | ![alt text](https://github.com/OlivierCharlier/OlivierCharlier/blob/main/img/icone2.png "WordPress") | ![alt text](https://github.com/OlivierCharlier/OlivierCharlier/blob/main/img/icone7.png "PHP") | ![alt text](https://github.com/OlivierCharlier/OlivierCharlier/blob/main/img/icone6.png "Data BAse Management")
 
 
 
-
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) 😆
 ---
 
-***A day without laughter is a day wasted.***
 
-                                                       `Charlie Chaplin`
+
+*A day without laughter is a day wasted.*
+
+                             **Charlie Chaplin**
 
