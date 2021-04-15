@@ -20,8 +20,8 @@ _I started around the year 2000: trying to code with [MS Word](https://en.wikipe
 
 
 &#8594; 📫 My Emails: <olivier.charlier.web@gmail.com> || <mail@olione.be>  
-&#8594; ⚡ My website : [OliOne.be](https://www.olione.be "My onlined workshop is my portfolio too")  
-&#8594; 🔗 My Linkedin : [oliviercharlier](https://www.linkedin.com/in/oliviercharlier/)  
+&#8594; ⚡ My Website : [OliOne.be](https://www.olione.be "My onlined workshop is my portfolio too")  
+&#8594; 🔗 My LinkedIn : [oliviercharlier](https://www.linkedin.com/in/oliviercharlier/)  
 
 ---
 
